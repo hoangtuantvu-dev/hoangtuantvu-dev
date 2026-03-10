@@ -29,7 +29,9 @@
  **Trà Vinh, Việt Nam** 🇻🇳  
 🏫 **Đại học Trà Vinh**  
 💼 **Chuyên ngành:** Công nghệ Thông tin  
-🚀 **Mục tiêu:** Trở thành Full-stack Developer  
+🚀 **Mục tiêu:** Trở thành Full-stack Developer
+👤 Contact: 0357 124 957
+📧 Mail:  votuan1520@gmail.com
 
 ---
 
