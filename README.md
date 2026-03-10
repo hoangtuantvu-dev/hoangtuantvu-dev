@@ -26,7 +26,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react" width="200" />
 
-�m **Trà Vinh, Việt Nam** 🇻🇳  
+ **Trà Vinh, Việt Nam** 🇻🇳  
 🏫 **Đại học Trà Vinh**  
 💼 **Chuyên ngành:** Công nghệ Thông tin  
 🚀 **Mục tiêu:** Trở thành Full-stack Developer  
