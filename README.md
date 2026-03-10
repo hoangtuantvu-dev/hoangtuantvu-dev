@@ -1,107 +1,157 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Xin+chào!+Tôi+là+Võ+Hoàng+Tuấn+👋;Welcome+to+my+GitHub+Profile!;Frontend+Developer+%7C+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Xin+chào!+Tôi+là+Võ+Hoàng+Tuấn+👋;Chào+mừng+đến+với+GitHub+của+tôi!;Frontend+Developer+%7C+Sinh+viên" alt="Typing SVG" />
 </div>
+
+<br/>
 
 <div align="center">
-  <img src="https://github.com/hoangtuantvu-dev/hoangtuantvu-dev/blob/main/assets/coding.gif" width="400" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding"/>
 </div>
 
-## 🚀 Về tôi
+<br/>
+
+## 🚀 Giới thiệu về tôi
+
+<div align="center">
 
 ```javascript
-const hoangTuan = {
-    name: "Võ Hoàng Tuấn",
+const voHoangTuan = {
+    fullName: "Võ Hoàng Tuấn",
     location: "Trà Vinh, Việt Nam 🇻🇳",
-    education: "Đại học Trà Vinh",
+    university: "Đại học Trà Vinh",
+    major: "Công nghệ Thông tin",
     role: "Frontend Developer",
-    languages: ["Vietnamese", "English"],
-    currentFocus: "Building amazing web experiences",
-    funFact: "Code is poetry in motion! ✨"
+    skills: ["HTML5", "CSS3", "JavaScript"],
+    passion: "Tạo ra những trang web đẹp và hiện đại",
+    motto: "Học hỏi mỗi ngày, tiến bộ mỗi giờ! 💪"
 };
+
+console.log("Chào mừng bạn đến với thế giới code của tôi! 🌟");
 ```
+
+</div>
+
+<br/>
 
 ## 💻 Kỹ năng & Công nghệ
 
 <div align="center">
+
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery" />
+
+### 🛠️ Tools & Environment  
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,photoshop" />
+
+### 🌱 Đang học
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express" />
+
+</div>
+
+<br/>
+
+## 📊 Thống kê GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoangtuantvu-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtuantvu-dev&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtuantvu-dev&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+## 🏆 Thành tích GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hoangtuantvu-dev&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+</div>
+
+<br/>
+
+## 📈 Biểu đồ hoạt động
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangtuantvu-dev&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+</div>
+
+<br/>
+
+## 🎯 Mục tiêu & Định hướng
+
+<div align="center">
+
+| 🎯 Hiện tại | 🚀 Tương lai |
+|-------------|--------------|
+| 🔭 Phát triển kỹ năng **HTML, CSS, JavaScript** | 🌟 Trở thành **Full-stack Developer** |
+| 🌱 Học **React** và **Node.js** | 🚀 Xây dựng các ứng dụng web phức tạp |
+| 👯 Tham gia các dự án **Frontend** | 💼 Làm việc tại các công ty công nghệ |
+| 💡 Chia sẻ kiến thức với cộng đồng | 🎓 Hoàn thành xuất sắc đại học |
+
+</div>
+
+<br/>
+
+## 🌟 Dự án nổi bật
+
+<div align="center">
+  <a href="https://github.com/hoangtuantvu-dev/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangtuantvu-dev&repo=portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+  </a>
+  <a href="https://github.com/hoangtuantvu-dev/web-projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangtuantvu-dev&repo=web-projects&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+  </a>
+</div>
+
+<br/>
+
+## 📱 Kết nối với tôi
+
+<div align="center">
   
-### Frontend Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoangtuantvu-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtuantvu-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtuantvu-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-## 🎯 Mục tiêu hiện tại
-
-- 🔭 Đang phát triển các dự án web với **HTML, CSS, JavaScript**
-- 🌱 Học hỏi thêm về **React** và **Node.js**
-- 👯 Tìm kiếm cơ hội hợp tác trong các dự án **Frontend**
-- 💡 Chia sẻ kiến thức và học hỏi từ cộng đồng developer
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hoangtuantvu-dev&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangtuantvu-dev&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
-## 🎨 Dự án nổi bật
-
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hoangtuantvu-dev&repo=portfolio&theme=tokyonight&hide_border=true)](https://github.com/hoangtuantvu-dev/portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hoangtuantvu-dev&repo=web-projects&theme=tokyonight&hide_border=true)](https://github.com/hoangtuantvu-dev/web-projects)
-
-</div>
-
-## 📫 Liên hệ với tôi
-
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoangtuantvu.dev@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoangtuantvu.dev@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/hoangtuantvu.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hoangtuantvu-dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hoangtuantvu.dev)
+[![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white)](https://zalo.me/hoangtuantvu)
 
 </div>
 
-## ⚡ Fun Facts
+<br/>
 
-- 🎓 Sinh viên tại **Đại học Trà Vinh**
-- 💻 Đam mê tạo ra những trang web đẹp và tương tác
-- 🌟 Luôn sẵn sàng học hỏi công nghệ mới
-- 🎯 Mục tiêu trở thành **Full-stack Developer**
+## ⚡ Thông tin thú vị
+
+<div align="center">
+
+🎓 **Sinh viên năm 3** tại Đại học Trà Vinh  
+💻 **Đam mê** tạo ra những giao diện web đẹp mắt  
+🌟 **Mục tiêu** trở thành Frontend Developer chuyên nghiệp  
+🎯 **Sở thích** học công nghệ mới và chia sẻ kiến thức  
+☕ **Thức uống yêu thích** khi code: Cà phê đen  
+🎵 **Âm nhạc** giúp tôi tập trung khi làm việc  
+
+</div>
+
+<br/>
+
+## 📊 Hoạt động gần đây
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br/>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hoangtuantvu-dev&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hoangtuantvu-dev&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/hoangtuantvu-dev?color=00D9FF&style=for-the-badge&logo=github&label=FOLLOWERS" />
 </div>
 
+<br/>
+
 <div align="center">
-  <h3>💖 Cảm ơn bạn đã ghé thăm profile của tôi!</h3>
-  <img src="https://raw.githubusercontent.com/hoangtuantvu-dev/hoangtuantvu-dev/main/assets/wave.gif" width="30px" alt="Wave">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Cảm%20ơn%20bạn%20đã%20ghé%20thăm!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65"/>
 </div>
