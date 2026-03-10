@@ -14,20 +14,19 @@
 
 <div align="center">
 
-```javascript
-const voHoangTuan = {
-    fullName: "Võ Hoàng Tuấn",
-    location: "Trà Vinh, Việt Nam 🇻🇳",
-    university: "Đại học Trà Vinh",
-    major: "Công nghệ Thông tin",
-    role: "Frontend Developer",
-    skills: ["HTML5", "CSS3", "JavaScript"],
-    passion: "Tạo ra những trang web đẹp và hiện đại",
-    motto: "Học hỏi mỗi ngày, tiến bộ mỗi giờ! 💪"
-};
+### 👨‍💻 Võ Hoàng Tuấn
+**Frontend Developer | Sinh viên Công nghệ Thông tin**
 
-console.log("Chào mừng bạn đến với thế giới code của tôi! 🌟");
-```
+📍 **Địa điểm:** Trà Vinh, Việt Nam  
+🎓 **Trường:** Đại học Trà Vinh  
+💼 **Chuyên ngành:** Công nghệ Thông tin  
+🎯 **Định hướng:** Frontend Developer  
+
+---
+
+**Tôi là một sinh viên đam mê phát triển web với kinh nghiệm trong việc xây dựng giao diện người dùng hiện đại và thân thiện. Với nền tảng vững chắc về HTML, CSS và JavaScript, tôi luôn tìm kiếm cơ hội để học hỏi và áp dụng các công nghệ mới nhất trong lĩnh vực frontend development.**
+
+**Mục tiêu của tôi là trở thành một Frontend Developer chuyên nghiệp, có khả năng tạo ra những sản phẩm web chất lượng cao và mang lại trải nghiệm tuyệt vời cho người dùng.**
 
 </div>
 
