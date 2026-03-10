@@ -49,26 +49,6 @@
 
 <br/>
 
-## 📊 Thống kê GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoangtuantvu-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtuantvu-dev&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtuantvu-dev&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-## 🏆 Thành tích GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hoangtuantvu-dev&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
-</div>
-
-<br/>
 
 ## 📈 Biểu đồ hoạt động
 
@@ -131,6 +111,27 @@
 ☕ **Thức uống yêu thích** khi code: Cà phê đen  
 🎵 **Âm nhạc** giúp tôi tập trung khi làm việc  
 
+</div>
+
+<br/>
+
+## 📊 Thống kê GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoangtuantvu-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtuantvu-dev&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtuantvu-dev&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+## 🏆 Thành tích GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hoangtuantvu-dev&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
 </div>
 
 <br/>
