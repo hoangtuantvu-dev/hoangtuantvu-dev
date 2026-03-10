@@ -17,8 +17,10 @@
 ### 👨‍💻 Võ Hoàng Tuấn
 **Frontend Developer | Sinh viên Công nghệ Thông tin**
 
-📍 **Địa điểm:** Trà Vinh, Việt Nam  
-🎓 **Trường:** Đại học Trà Vinh  
+<img src="https://skillicons.dev/icons?i=html,css,js" width="120" />
+
+� **Địay điểm:** Trà Vinh, Việt Nam  
+� ***Trường:** Đại học Trà Vinh  
 💼 **Chuyên ngành:** Công nghệ Thông tin  
 🎯 **Định hướng:** Frontend Developer  
 
@@ -27,6 +29,9 @@
 **Tôi là một sinh viên đam mê phát triển web với kinh nghiệm trong việc xây dựng giao diện người dùng hiện đại và thân thiện. Với nền tảng vững chắc về HTML, CSS và JavaScript, tôi luôn tìm kiếm cơ hội để học hỏi và áp dụng các công nghệ mới nhất trong lĩnh vực frontend development.**
 
 **Mục tiêu của tôi là trở thành một Frontend Developer chuyên nghiệp, có khả năng tạo ra những sản phẩm web chất lượng cao và mang lại trải nghiệm tuyệt vời cho người dùng.**
+
+### 🔧 Kỹ năng chính
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma" width="160" />
 
 </div>
 
